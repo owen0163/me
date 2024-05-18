@@ -1,18 +1,13 @@
 <template>
-  <v-app>
-    <v-main>
-      <router-view/>
-    </v-main>
-  </v-app>
+  <div>how to git</div>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
 
-  data: () => ({
-    //
-  }),
 }
 </script>
+
+<style>
+
+</style>
